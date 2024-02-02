@@ -10,7 +10,7 @@ The project is organized into two main folders:
 
 ## Home Page
 
-![Pixel Galaxy Home Page](pixelgalaxy.svg)
+![Pixel Galaxy Home Page](pixelgalaxy.png)
 
 ## Getting Started
 
