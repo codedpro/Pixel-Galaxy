@@ -1,12 +1,13 @@
 # Pixel Galaxy
 
-Pixel Galaxy is a child site of the AI Universe, providing users with a Dall-E-like experience. Users can create images, share them with the community, and enjoy stunning designs. The platform supports two languages: Farsi (Fa) and English (En).
+Welcome to Pixel Galaxy, a captivating child site within the AI Universe. Immerse yourself in a Dall-E-like experience where users can unleash their creativity, crafting images, sharing them with the community, and reveling in stunning designs. The platform seamlessly supports two languages: Farsi (Fa) and English (En).
 
 ## Project Structure
 
-The project is organized into two main folders:
-- **Client:** Vite React app for the frontend.
-- **Server:** Node.js server for backend functionalities.
+Explore the intricacies of Pixel Galaxy organized into two pivotal folders:
+
+- **Client:** A cutting-edge Vite React app powering the captivating frontend.
+- **Server:** A robust Node.js server orchestrating backend functionalities.
 
 ## Home Page
 
@@ -50,13 +51,12 @@ The project is organized into two main folders:
 
 ## Developer Information
 
-For inquiries or to report issues, you can contact the developer through Telegram:
+For inquiries or reporting issues, connect with the developer via Telegram:
 
-Developer: [Coded Pro]
-Telegram ID: [@Coded_Pro]
-Telegram Link: [t.me/coded_pro](https://t.me/coded_pro)
+- **Developer:** Coded Pro
+- **Telegram ID:** @Coded_Pro
+- **Telegram Link:** [t.me/coded_pro](https://t.me/coded_pro)
 
 ## Credits
 
-This project is a part of the AI Universe and was developed by [Coded Pro].
-``
+Pixel Galaxy, a stellar creation within the AI Universe, was meticulously developed by Coded Pro. Your journey begins here!
