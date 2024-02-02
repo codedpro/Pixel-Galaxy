@@ -1,4 +1,3 @@
-```markdown
 # Pixel Galaxy
 
 Pixel Galaxy is a child site of the AI Universe, providing users with a Dall-E-like experience. Users can create images, share them with the community, and enjoy stunning designs. The platform supports two languages: Farsi (Fa) and English (En).
