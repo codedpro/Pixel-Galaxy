@@ -6,6 +6,7 @@ import { getRandomPrompt } from '../utils';
 import { FormField, Loader } from '../components';
 import { useTranslation } from 'react-i18next';
 const CreatePost = () => {
+  
   const navigate = useNavigate();
 
   const [form, setForm] = useState({
